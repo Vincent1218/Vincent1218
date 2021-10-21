@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Vincent1218/Vincent1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
