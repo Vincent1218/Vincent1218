@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Vincent - aka [Pikacent][website] 👋
 
 
-## I'm a Web developer, Y2 Computer Science Student, Competitive programmer
+## I'm a Web developer, Y3 Computer Science Student, Competitive programmer
 
 ### Connect with me:
 
